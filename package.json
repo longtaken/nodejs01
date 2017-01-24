@@ -1,0 +1,20 @@
+{
+  "name": "testcensorify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "censorify/censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+	"type":"git",
+	"url":"https://github.com/longtaken/nodejs01/tree/master/censorify"
+  },
+  "keywords":[
+	"censor",
+	"words"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+ 
