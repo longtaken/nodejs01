@@ -107,4 +107,4 @@ concat(list,[totalLength]);方法接受buffer对象的数组作为第一个参�
     * fs.watchFile(path,[options],callback);  例子：fs.watchFile("log.txt",{persistent:true,interval:5000},(curr,prev)=>{console.log(curr.mtime,prev.mtime);});
 
 * 了解url对象
-    
+    * url.parse(urlstr,[parseQueryString],[slashesDenoteHost]);url字符串
